@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Test",
+      "content": "Description",
+      "created_at": "01/01/22"
+    },
+    {
+      "id": "2",
+      "title": "Test 2",
+      "content": "Description 2",
+      "created_at": "02/01/22"
+    },
+    {
+      "id": "2fb7",
+      "title": "A note",
+      "content": "Some note content",
+      "created_at": "01/01/2022"
+    }
+  ]
+}
